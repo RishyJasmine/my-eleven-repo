@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Timeline of the Universe</title>
+</head>
+<body style="font-family: Georgia, serif; background: #f5f5dc; color: #333; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto;">
+
+  <header>
+    <h1 style="text-align:center;">🌌 Timeline of the Universe</h1>
+    <p style="text-align:center;">A scroll through cosmic history — no scripts, no stylesheets, just HTML.</p>
+    <hr>
+  </header>
+
+  <section>
+    <h2>☄️ 13.8 Billion Years Ago</h2>
+    <p>The <strong>Big Bang</strong> occurs. The universe begins from an incredibly hot, dense state.</p>
+  </section>
+
+  <section>
+    <h2>🌟 13.6 Billion Years Ago</h2>
+    <p>The first stars form, lighting up the early universe and fusing hydrogen into heavier elements.</p>
+  </section>
+
+  <section>
+    <h2>🌀 13.2 Billion Years Ago</h2>
+    <p>Galaxies begin to form, drawn together by the gravity of dark matter.</p>
+  </section>
+
+  <section>
+    <h2>🌍 4.5 Billion Years Ago</h2>
+    <p>Our solar system forms. Earth emerges as a molten rock, cooling slowly over millions of years.</p>
+  </section>
+
+  <section>
+    <h2>🌱 3.5 Billion Years Ago</h2>
+    <p>Life begins in the oceans as simple single-celled organisms.</p>
+  </section>
+
+  <section>
+    <h2>🦖 230 Million Years Ago</h2>
+    <p>Dinosaurs dominate Earth for more than 160 million years.</p>
+  </section>
+
+  <section>
+    <h2>🚀 1969 AD</h2>
+    <p>Humans land on the moon. Neil Armstrong and Buzz Aldrin take the first steps on the lunar surface.</p>
+    <blockquote>
+      “That's one small step for a man, one giant leap for mankind.”
+    </blockquote>
+  </section>
+
+  <section>
+    <h2>🧠 Present Day</h2>
+    <p>You are reading this web page, crafted with nothing but HTML — a small footprint in the vast digital universe.</p>
+  </section>
+
+  <footer>
+    <hr>
+    <p style="text-align:center; font-style: italic;">Made with stardust and HTML.</p>
+  </footer>
+
+</body>
+</html>
